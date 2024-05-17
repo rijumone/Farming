@@ -8,7 +8,7 @@
   ],
   "properties": {
     "firstName": {
-      $ref": "https://raw.githubusercontent.com/rijumone/Farming/master/firstName.json"
+      "$ref": "https://raw.githubusercontent.com/rijumone/Farming/master/firstName.json"
     },
     "lastName": {
       "type": "string",
